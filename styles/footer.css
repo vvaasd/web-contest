@@ -1,0 +1,23 @@
+footer{
+    width: 100%;
+    background: rgba(108, 218, 255, 1);
+    height: 5rem;
+
+}
+footer ul{
+    display: flex;
+    padding: 0;
+    list-style: none;;
+    justify-content: center;
+    margin: 0;
+}
+footer ul>li{
+    margin: 0.9rem 1rem;
+}
+
+footer>p{
+    text-align: center;
+    margin: 0;
+    font-size: 14px;
+    color: rgb(74, 67, 67);
+}
